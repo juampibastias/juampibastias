@@ -20,7 +20,7 @@ La mayoría de estos repositorios son privados por acuerdo con cada cliente. Si 
 
 | Proyecto | Qué es |
 |---|---|
-| **Cooperativa Eléctrica de Rivadavia** | Gestión de proveedores con extracción documental por IA, licitaciones y órdenes de pago. Sitio institucional y portal de pago de facturas. Integración con el sistema legacy existente. |
+| **Cooperativa Eléctrica y Anexos Popular de Rivadavia Ltda.** | Gestión de proveedores con extracción documental por IA, licitaciones y órdenes de pago. Sitio institucional y portal de pago de facturas. Integración con el sistema legacy existente. |
 | **Trama** | SaaS de gestión de proveedores: compras, facturas, órdenes de pago y legajos digitales, con APIs para integrarse a ERPs. |
 | **LookApp (Turkini)** | Punto de venta gastronómico: menú con QR, pantalla de cocina en vivo, cobros y facturación electrónica AFIP/ARCA con impresión térmica. |
 | **Gymnia** | Gestión de gimnasios multi-tenant: socios, planes, check-in con QR, rutinas y app para alumnos. |
